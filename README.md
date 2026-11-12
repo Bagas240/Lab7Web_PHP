@@ -1,4 +1,3 @@
-<img width="367" height="67" alt="image" src="https://github.com/user-attachments/assets/438bfc9d-694f-4056-b074-6ef79874b5a5" /># Lab7Web_PHP  Praktikum 7: Pemrograman Server-Side dengan PHP
 
 | Nama | Bagas Arya Ramadhan | 
 | Nim |312510328 |
